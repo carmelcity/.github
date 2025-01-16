@@ -28,21 +28,21 @@ The Carmel City platform follows a *"sufficently decentralized"* design whereby 
 The **Carmel City System** is a group of Smart Contracts that represent the core functionality of the Carmel City Platform, on-chain. This includes the **Carmel Verifier**, the **Carmel Registry** and the **Carmel Treasury**. The system manages contracts, handles deposits and performs self-sovereign federated account operations, and much more.
 
 [![License](https://img.shields.io/static/v1?label=open%20source&message=MIT%20License&color=%23388E3C)](../LICENSE)
-[![Code](https://img.shields.io/static/v1?label=see%20code&message=Carmel%20System&color=%23039BE5)](../sys)
+[![Code](https://img.shields.io/static/v1?label=see%20code&message=Carmel%20System&color=%23039BE5)](../../sys)
 
 ### The Decentralized Node
 
 The **Carmel City Node** is a peer-to-peer server that connects to other nodes in the **Carmel Network**. The node can either be a **relay** that connects other nodes or a **sentinel** that handles *self-sovereign account operations* on behalf of Carmel Accounts.
 
-[![License](https://img.shields.io/static/v1?label=open%20source&message=MIT%20License&color=%23388E3C)](LICENSE)
-[![Code](https://img.shields.io/static/v1?label=see%20code&message=Carmel%20Node&color=%23039BE5)](node)
+[![License](https://img.shields.io/static/v1?label=open%20source&message=MIT%20License&color=%23388E3C)](../LICENSE)
+[![Code](https://img.shields.io/static/v1?label=see%20code&message=Carmel%20Node&color=%23039BE5)](../../node)
 
 ### The Main Website
 
 The **Carmel City Website** is the gateway to the Carmel City, where members collaborate, learn, and own their contributions. Here, members start by joining Carmels—thoughtful discussions on reimagining work and society. They then connect in communities to fund and launch impactful projects, while participating in challenges to earn rewards, and learn through tutorials. The website also features the Carmel Store, where Carmel Properties can be bought and sold.
 
 [![License](https://img.shields.io/static/v1?label=open%20source&message=MIT%20License&color=%23388E3C)](../LICENSE)
-[![Code](https://img.shields.io/static/v1?label=see%20code&message=Carmel%20Website&color=%23039BE5)](../web)
+[![Code](https://img.shields.io/static/v1?label=see%20code&message=Carmel%20Website&color=%23039BE5)](../../web)
 
 
 ## Contributing
