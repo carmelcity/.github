@@ -28,7 +28,7 @@ The Carmel City platform follows a *"sufficently decentralized"* design whereby 
 The **Carmel City System** is a group of Smart Contracts that represent the core functionality of the Carmel City Platform, on-chain. This includes the **Carmel Verifier**, the **Carmel Registry** and the **Carmel Treasury**. The system manages contracts, handles deposits and performs self-sovereign federated account operations, and much more.
 
 [![License](https://img.shields.io/static/v1?label=open%20source&message=MIT%20License&color=%23388E3C)](LICENSE)
-[![Code](https://img.shields.io/static/v1?label=see%20code&message=Carmel%20System&color=%23039BE5)](../sys)
+[![Code](https://img.shields.io/static/v1?label=see%20code&message=Carmel%20System&color=%23039BE5)](/sys)
 
 ### The Decentralized Node
 
