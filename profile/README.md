@@ -1,4 +1,4 @@
-<p align="center"> <img src="../banner.png" width="100%">
+<p align="center"> <img src="../images/banner.png" width="100%">
 </p>
 
 # Carmel City
@@ -18,7 +18,7 @@ Together, we redefine work by reimagining learning, innovation, and ownership fo
 
 ## Platform Architecture
 
-<p align="center"> <img src="../banner.webp" width="100%">
+<p align="center"> <img src="../images/banner.webp" width="100%">
 </p>
 
 The Carmel City platform follows a *"sufficently decentralized"* design whereby critical functionality is decentralized while some functionality is centralized, for easy of use. Key platform components such as the treasury, or the registry are decentralized, giving members access to self-sovereign identities, decentralized data and blockchain digital assets. At the same time, passwordless email-based registrations and other centralized functionality is managed in an offchain, managed cloud platform in order to produce a beautiful, easy to use experience.
@@ -27,8 +27,8 @@ The Carmel City platform follows a *"sufficently decentralized"* design whereby 
 
 The **Carmel City System** is a group of Smart Contracts that represent the core functionality of the Carmel City Platform, on-chain. This includes the **Carmel Verifier**, the **Carmel Registry** and the **Carmel Treasury**. The system manages contracts, handles deposits and performs self-sovereign federated account operations, and much more.
 
-[![License](https://img.shields.io/static/v1?label=open%20source&message=MIT%20License&color=%23388E3C)](LICENSE)
-[![Code](https://img.shields.io/static/v1?label=see%20code&message=Carmel%20System&color=%23039BE5)](sys)
+[![License](https://img.shields.io/static/v1?label=open%20source&message=MIT%20License&color=%23388E3C)](../LICENSE)
+[![Code](https://img.shields.io/static/v1?label=see%20code&message=Carmel%20System&color=%23039BE5)](../sys)
 
 ### The Decentralized Node
 
@@ -41,15 +41,15 @@ The **Carmel City Node** is a peer-to-peer server that connects to other nodes i
 
 The **Carmel City Website** is the gateway to the Carmel City, where members collaborate, learn, and own their contributions. Here, members start by joining Carmels—thoughtful discussions on reimagining work and society. They then connect in communities to fund and launch impactful projects, while participating in challenges to earn rewards, and learn through tutorials. The website also features the Carmel Store, where Carmel Properties can be bought and sold.
 
-[![License](https://img.shields.io/static/v1?label=open%20source&message=MIT%20License&color=%23388E3C)](LICENSE)
-[![Code](https://img.shields.io/static/v1?label=see%20code&message=Carmel%20Website&color=%23039BE5)](web)
+[![License](https://img.shields.io/static/v1?label=open%20source&message=MIT%20License&color=%23388E3C)](../LICENSE)
+[![Code](https://img.shields.io/static/v1?label=see%20code&message=Carmel%20Website&color=%23039BE5)](../web)
 
 
 ## Contributing
 
 We welcome contributions from everyone! You can help by fixing bugs, suggesting some improvements, or even adding new features. Your contributions help us make Carmel City better for everyone. 
 
-To get started, have take a look at the [Contributing Guidelines](CONTRIBUTING.md) and read the instructions carefully.
+To get started, have take a look at the [Contributing Guidelines](../CONTRIBUTING.md) and read the instructions carefully.
 
 ## Maintenance
 
