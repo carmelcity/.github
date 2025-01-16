@@ -12,7 +12,6 @@ We appreciate all types of contributions and value your input. Check the [Table 
 
 ## Table of Contents
 
-- [Code of Conduct](#code-of-conduct)
 - [Questions](#questions)
 - [How to Contribute](#how-to-contribute)
 - [Reporting Bugs](#reporting-bugs)
@@ -25,7 +24,7 @@ We appreciate all types of contributions and value your input. Check the [Table 
 
 ## Questions
 
-Before asking a question, please check the [Documentation]() and [Issues](../projects/1) to see if your question has already been answered. If you need more help, you can open an [Issue](../projects/1), providing details like your platform version and what you're experiencing. We'll get back to you as soon as possible.
+Before asking a question, please check the [Documentation]() and [Issues](https://github.com/carmelcity/projects/1) to see if your question has already been answered. If you need more help, you can open an [Issue](https://github.com/carmelcity/projects/1), providing details like your platform version and what you're experiencing. We'll get back to you as soon as possible.
 
 ## How to Contribute
 
@@ -37,18 +36,18 @@ By contributing, you confirm that you own the content you're submitting and that
 To help us fix bugs quickly:
 - Ensure you're using the latest version.
 - Double-check the issue isn't an environment problem on your side.
-- Look for similar issues in the [bug tracker](../projects/1) or on the internet.
+- Look for similar issues in the [bug tracker](https://github.com/carmelcity/projects/1) or on the internet.
 - Gather information like stack traces, platform details, and whether the bug can be reproduced.
 
 When submitting the bug:
-- Open an [Issue](../projects/1) and describe the expected vs. actual behavior.
+- Open an [Issue](https://github.com/carmelcity/projects/1) and describe the expected vs. actual behavior.
 - Provide reproduction steps, code samples, and all gathered info.
 
 ### Suggesting Enhancements
 
 Before suggesting an enhancement:
 - Make sure you're using the latest version.
-- Check the [documentation](../docs) and [issues](../projects/1) to see if your suggestion already exists.
+- Check the [documentation](https://github.com/carmelcity/docs) and [issues](https://github.com/carmelcity/projects/1) to see if your suggestion already exists.
 - Think about how your idea fits with the project's goals.
 
 When submitting:
